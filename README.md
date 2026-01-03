@@ -24,8 +24,7 @@ on-chain adoption, liquidity, transaction costs, price stability, and settlement
 
 ## Dashboard
 🔗 **Public Dune Dashboard:**  
-PASTE YOUR DUNE DASHBOARD LINK HERE
-
+https://dune.com/yurinoda_team_4156/mini-project-2?utm_source=share&utm_medium=copy&utm_campaign=dashboard
 ---
 
 ## Key Findings
